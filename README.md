@@ -45,7 +45,8 @@ pip install -r requirements.txt
 python desktop_client/main.py
 ``
 
-ÄÄUsage
+**Usage**
+```
 Capture a Screenshot:
 Press the PrintScreen key to capture the screen.
 
@@ -54,8 +55,9 @@ Right-click on any screenshot thumbnail to open options like "Open Full Size", "
 
 Adjust Settings:
 Use the provided controls to change thumbnail dimensions and other preferences.
+``
 
-Upcoming Version 2
+**Upcoming Version 2**
 Version 2 is currently in the works and will include:
 
 A complete UI overhaul with a responsive design using Flask and Bootstrap.
