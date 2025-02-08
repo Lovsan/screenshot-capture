@@ -31,5 +31,42 @@ This application listens for the PrintScreen key and automatically saves your sc
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Lovsan/screenshot-capture.git
+``
 
-[https://i.imgur.com/4dkfugf_d.webp?maxwidth=1520&fidelity=grand](https://i.imgur.com/4dkfugf.png)
+2. **Install dependencies:**
+
+Ensure you have Python installed. Then install the required packages:
+  ```bash
+pip install -r requirements.txt
+``
+
+3. **Run the application:**
+  ```bash
+python desktop_client/main.py
+``
+
+ÄÄUsage
+Capture a Screenshot:
+Press the PrintScreen key to capture the screen.
+
+Manage Screenshots:
+Right-click on any screenshot thumbnail to open options like "Open Full Size", "Edit Image", "Rename", "Delete", or "Upload (Imgur)".
+
+Adjust Settings:
+Use the provided controls to change thumbnail dimensions and other preferences.
+
+Upcoming Version 2
+Version 2 is currently in the works and will include:
+
+A complete UI overhaul with a responsive design using Flask and Bootstrap.
+The ability to host and share images directly from our own server.
+Advanced editing features.
+User authentication and a personalized gallery experience.
+Enhanced sharing options including social media integrations.
+Stay tuned for updates!
+
+Contributing
+Contributions, bug reports, and feature suggestions are welcome! Feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
