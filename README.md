@@ -34,7 +34,6 @@ This application listens for the PrintScreen key and automatically saves your sc
 ``
 
 2. **Install dependencies:**
-
 Ensure you have Python installed. Then install the required packages:
   ```bash
 pip install -r requirements.txt
@@ -45,17 +44,17 @@ pip install -r requirements.txt
 python desktop_client/main.py
 ``
 
-**Usage**
-```
-Capture a Screenshot:
+## Usage
+
+**Capture a Screenshot:**
 Press the PrintScreen key to capture the screen.
 
-Manage Screenshots:
+**Manage Screenshots:**
 Right-click on any screenshot thumbnail to open options like "Open Full Size", "Edit Image", "Rename", "Delete", or "Upload (Imgur)".
 
-Adjust Settings:
+**Adjust Settings:**
 Use the provided controls to change thumbnail dimensions and other preferences.
-``
+
 
 **Upcoming Version 2**
 Version 2 is currently in the works and will include:
@@ -67,8 +66,8 @@ User authentication and a personalized gallery experience.
 Enhanced sharing options including social media integrations.
 Stay tuned for updates!
 
-Contributing
+**Contributing**
 Contributions, bug reports, and feature suggestions are welcome! Feel free to open an issue or submit a pull request.
 
-License
+**License**
 This project is licensed under the MIT License.
