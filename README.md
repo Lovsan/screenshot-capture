@@ -47,7 +47,7 @@ pip install -r requirements.txt
 3. **Run the application:**
 
 ```bash
-python desktop_client/main.py
+python screenshot-capture/screenshot-capture.py
 ```
 
 ## Usage
