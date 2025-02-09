@@ -42,7 +42,7 @@ Ensure you have Python installed. Then install the required packages:
 
 ```bash
 pip install -r requirements.txt
-    ```
+```
 
 3. **Run the application:**
 
