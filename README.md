@@ -11,11 +11,12 @@ This application listens for the PrintScreen key and automatically saves your sc
 - **Imgur Integration:**  
   Upload your screenshots to Imgur with a single click.
 
-- **Gallery View:**  
+- **Gallery View:** - called "screenshot history"
   Browse your screenshots in a grid layout with thumbnail previews.
 
 - **Editing and Management:**  
   Open screenshots in your default image editor, rename them, or delete them as needed.
+    - **Note:** The image editor feature is currently under development and will be added in an upcoming update. Stay tuned for more details!
 
 ## Screenshots
 
@@ -29,20 +30,23 @@ This application listens for the PrintScreen key and automatically saves your sc
 ## Installation
 
 1. **Clone the repository:**
-   ```bash
+
+```bash
    git clone https://github.com/Lovsan/screenshot-capture.git
-``
+```
+ 
 
 2. **Install dependencies:**
 Ensure you have Python installed. Then install the required packages:
-  ```bash
+
+```bash
 pip install -r requirements.txt
-``
+    ```
 
 3. **Run the application:**
-  ```bash
+```bash
 python desktop_client/main.py
-``
+```
 
 ## Usage
 
