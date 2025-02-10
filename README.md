@@ -20,10 +20,7 @@ This application listens for the PrintScreen key and automatically saves your sc
 
 ## Screenshots
 
-*Below are placeholder images for the screenshots. Replace them with your actual screenshots when ready.*
-
 <div align="center">
-  <img src="screenshot_2025-02-08_00-38-27.png" alt="Screenshot 1" width="400px" />
   <img src="screenshot_2025-02-08_00-42-01.png" alt="Screenshot 2" width="400px" />
   <img src="screenshot_2025-02-08_00-49-12.png" alt="Screenshot 3" width="400px" />
 </div>
